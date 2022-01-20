@@ -1,0 +1,7 @@
+/* === PREDEFINIÇÕES === */
+html { font-size: calc(1em + 1vw); }
+
+
+/* === BREAKPOINTS === */
+@media all and (max-width: 1199px) { ... } 
+@media all and (max-width: 480px) { ... }
